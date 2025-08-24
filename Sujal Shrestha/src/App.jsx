@@ -85,7 +85,7 @@ const App = () => {
                   <Mail size={20} />
                   Get In Touch
                 </button>
-                <a href='./public/Sujal_Shrestha.pdf' className="border border-gray-600 hover:border-blue-400 px-6 py-3 rounded-lg font-medium transition-colors flex items-center gap-2">
+                <a href='Sujal_Shrestha.pdf' target='_blank' className="border border-gray-600 hover:border-blue-400 px-6 py-3 rounded-lg font-medium transition-colors flex items-center gap-2">
                   <Download size={20} />
                   Download CV
                 </a>
@@ -97,7 +97,7 @@ const App = () => {
                 <a href="https://github.com/Asur-SujalShrestha" className="text-gray-400 hover:text-blue-400 transition-colors">
                   <Github size={24} />
                 </a>
-                <a href="mailto:shresthasuja519@gmail.com" className="text-gray-400 hover:text-blue-400 transition-colors">
+                <a href="mailto:shresthasujal519@gmail.com" className="text-gray-400 hover:text-blue-400 transition-colors">
                   <Mail size={24} />
                 </a>
               </div>
@@ -107,7 +107,7 @@ const App = () => {
                 <div className="w-80 h-80 rounded-full bg-gradient-to-r from-blue-500 to-purple-600 p-1">
                   <div className="w-full h-full rounded-full bg-gray-800 flex items-center justify-center">
                     <img 
-                      src="./public/Sujal_portfolio.jpg"
+                      src="Sujal_portfolio.jpg"
                       alt="Sujal Shrestha"
                       className="w-72 h-72 rounded-full object-cover"
                     />
@@ -165,7 +165,7 @@ const App = () => {
               </div>
               <div className="flex items-center gap-3">
                 <Mail className="text-blue-400" size={20} />
-                <span>shresthasuja519@gmail.com</span>
+                <span>shresthasujal519@gmail.com</span>
               </div>
               <div className="flex items-center gap-3">
                 <GraduationCap className="text-blue-400" size={20} />
@@ -507,7 +507,7 @@ const App = () => {
             <div className="text-center p-6 bg-gray-800/50 rounded-lg hover:bg-gray-800/70 transition-colors">
               <Mail className="text-blue-400 mx-auto mb-4" size={48} />
               <h3 className="text-xl font-bold mb-2">Email</h3>
-              <p className="text-gray-400">shresthasuja519@gmail.com</p>
+              <p className="text-gray-400">shresthasujal519@gmail.com</p>
             </div>
             
             <div className="text-center p-6 bg-gray-800/50 rounded-lg hover:bg-gray-800/70 transition-colors">
@@ -546,7 +546,7 @@ const App = () => {
               <a href="https://github.com/Asur-SujalShrestha" className="text-gray-400 hover:text-blue-400 transition-colors">
                 <Github size={20} />
               </a>
-              <a href="mailto:shresthasuja519@gmail.com" className="text-gray-400 hover:text-blue-400 transition-colors">
+              <a href="mailto:shresthasujal519@gmail.com" className="text-gray-400 hover:text-blue-400 transition-colors">
                 <Mail size={20} />
               </a>
             </div>
