@@ -85,7 +85,7 @@ const App = () => {
                   <Mail size={20} />
                   Get In Touch
                 </button>
-                <a href='./public/Sujal Shrestha.pdf' className="border border-gray-600 hover:border-blue-400 px-6 py-3 rounded-lg font-medium transition-colors flex items-center gap-2">
+                <a href='./public/Sujal_Shrestha.pdf' className="border border-gray-600 hover:border-blue-400 px-6 py-3 rounded-lg font-medium transition-colors flex items-center gap-2">
                   <Download size={20} />
                   Download CV
                 </a>
@@ -107,7 +107,7 @@ const App = () => {
                 <div className="w-80 h-80 rounded-full bg-gradient-to-r from-blue-500 to-purple-600 p-1">
                   <div className="w-full h-full rounded-full bg-gray-800 flex items-center justify-center">
                     <img 
-                      src="./public/Sujal portfolio.jpg"
+                      src="./public/Sujal_portfolio.jpg"
                       alt="Sujal Shrestha"
                       className="w-72 h-72 rounded-full object-cover"
                     />
