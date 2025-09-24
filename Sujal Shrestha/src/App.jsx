@@ -277,10 +277,10 @@ const App = () => {
                   <span className="bg-green-600/20 text-green-400 px-2 py-1 rounded text-sm">PostgreSQL</span>
                   <span className="bg-green-600/20 text-green-400 px-2 py-1 rounded text-sm">WebSockets</span>
                 </div>
-                <button className="flex items-center gap-2 text-green-400 hover:text-green-300 transition-colors">
+                <a href='https://github.com/Asur-SujalShrestha/NepoHeal.git' target='_blank' className="flex items-center gap-2 text-green-400 hover:text-green-300 transition-colors">
                   <ExternalLink size={16} />
                   View Project
-                </button>
+                </a>
               </div>
             </div>
 
@@ -300,10 +300,10 @@ const App = () => {
                   <span className="bg-orange-600/20 text-orange-400 px-2 py-1 rounded text-sm">Khalti API</span>
                   <span className="bg-orange-600/20 text-orange-400 px-2 py-1 rounded text-sm">PostgreSQL</span>
                 </div>
-                <button className="flex items-center gap-2 text-orange-400 hover:text-orange-300 transition-colors">
+                <a href='https://github.com/Asur-SujalShrestha/Online-food-ordering-System.git' target='_blank' className="flex items-center gap-2 text-orange-400 hover:text-orange-300 transition-colors">
                   <ExternalLink size={16} />
                   View Project
-                </button>
+                </a>
               </div>
             </div>
 
