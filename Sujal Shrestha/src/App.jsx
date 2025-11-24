@@ -277,7 +277,7 @@ const App = () => {
                   <span className="bg-green-600/20 text-green-400 px-2 py-1 rounded text-sm">PostgreSQL</span>
                   <span className="bg-green-600/20 text-green-400 px-2 py-1 rounded text-sm">WebSockets</span>
                 </div>
-                <a href='https://github.com/Asur-SujalShrestha/NepoHeal.git' target='_blank' className="flex items-center gap-2 text-green-400 hover:text-green-300 transition-colors">
+                <a href='https://github.com/Asur-SujalShrestha/Online-Hospital-Appointment-Booking-System.git' target='_blank' className="flex items-center gap-2 text-green-400 hover:text-green-300 transition-colors">
                   <ExternalLink size={16} />
                   View Project
                 </a>
@@ -435,9 +435,9 @@ const App = () => {
                 <div className="space-y-2 text-gray-300">
                   <div>Git/GitHub</div>
                   <div>REST APIs</div>
-                  <div>WebSockets</div>
-                  <div>JWT</div>
-                  <div>AWS</div>
+                  <div>Redis</div>
+                  <div>Docker</div>
+                  <div>WebSocket</div>
                 </div>
               </div>
             </div>
